@@ -1,0 +1,25 @@
+<section class="products">
+  <h1>Our Subscription Boxes</h1>
+  <div class="cards">
+    <div class="card">
+      <h3>Lite</h3>
+      <p>R670 — Essential pads, pantyliners, and digital wellness guides.</p>
+      <a href="#" class="btn">Subscribe</a>
+    </div>
+    <div class="card">
+      <h3>Core</h3>
+      <p>R950 — Pads, herbal teas, affirmation cards, and digital wellness content.</p>
+      <a href="#" class="btn">Subscribe</a>
+    </div>
+    <div class="card">
+      <h3>First Flow</h3>
+      <p>R1 250 — Designed for teens experiencing their first period. Includes pads, pantyliners, snacks, teas, heat pads, affirmation cards, and digital wellness content.</p>
+      <a href="#" class="btn">Subscribe</a>
+    </div>
+    <div class="card">
+      <h3>Luxe</h3>
+      <p>R1 500 — Premium box with complete wellness and self-care products.</p>
+      <a href="#" class="btn">Subscribe</a>
+    </div>
+  </div>
+</section> 
